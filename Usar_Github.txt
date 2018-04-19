@@ -1,0 +1,11 @@
+Per actualizar fitxers:
+
+$git init
+$git pull
+
+Treballar la tea part i desprestigiada:
+
+$git init
+$git add *
+$git commit -m "escriure els canvis que has fet"
+$git push origin master
